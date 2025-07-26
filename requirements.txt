@@ -1,0 +1,14 @@
+ fastapi
+uvicorn
+python-multipart
+google-generativeai
+pandas
+PyMuPDF
+pdfplumber
+python-docx
+fpdf2
+python-dotenv
+# --- NEW OCR LIBRARIES ---
+torch
+torchvision
+easyocr
